@@ -2,8 +2,9 @@
 
 I'm a passionate hobbyist, casual freelancer. 
 
-Currently working on a ✨top secret project✨
 <!--
+// Currently working on a ✨top secret project✨
+
 **ItsLhun/ItsLhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
