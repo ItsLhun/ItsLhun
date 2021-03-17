@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a passionate hobbyist, casual freelancer. 
+I'm a passionate hobbyist, casual freelancer. .
 
 <!--
 // Currently working on a ✨top secret project✨
