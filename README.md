@@ -2,6 +2,8 @@
 
 I'm a passionate hobbyist.
 
+Ongoing Web Dev BC @Ironhack
+
 <!--
 // Currently working on a ✨top secret project✨
 
