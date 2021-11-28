@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Ongoing Web Dev BC @Ironhack
+Web Dev Graduate @Ironhack
 
 Lets connect!
 
