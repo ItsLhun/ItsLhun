@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Web Dev Graduate @Ironhack
+Web Dev Graduate @Ironhack. 
 
 Lets connect!
 
