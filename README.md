@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-Full stack developer.
-
 Lets connect!
 
 [![Linkedin: Nahuel](https://img.shields.io/badge/NahuelGhastin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-ghastin/)](https://www.linkedin.com/in/nahuel-ghastin/) 
