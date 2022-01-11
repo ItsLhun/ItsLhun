@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Web Dev Graduate @Ironhack
+Full stack developer.
 
 Lets connect!
 
